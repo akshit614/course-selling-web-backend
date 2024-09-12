@@ -1,8 +1,8 @@
 # Course-Selling Backend
-### A backend application for managing courses, where admins can create and manage courses, and users can view and purchase courses. This is a simplified version of an online learning platform like Udemy.
+**A backend application for managing courses, where admins can create and manage courses, and users can view and purchase courses. This is a simplified version of an online learning platform like Udemy.**
 
 ## Description
-### This project is a backend application built using Node.js, Express.js, and MongoDB. The application allows:
+**This project is a backend application built using Node.js, Express.js, and MongoDB. The application allows:**
 
 - Admins to sign up and create courses.
 - Users to sign up, view available courses, and purchase courses.
